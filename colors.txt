@@ -1,0 +1,8 @@
+
+Cores
+
+#E1C060 Beje da marca
+#3D320D Marrom da marca
+
+#F3BB66 Beje secundário
+#A65616 Marrom secundário

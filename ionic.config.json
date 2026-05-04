@@ -1,0 +1,7 @@
+{
+  "name": "BurgerHouse",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
