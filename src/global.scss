@@ -35,3 +35,50 @@
 /* @import "@ionic/angular/css/palettes/dark.always.css"; */
 /* @import "@ionic/angular/css/palettes/dark.class.css"; */
 @import "@ionic/angular/css/palettes/dark.system.css";
+
+
+
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+.logo {
+    margin: 0;
+    padding: 2rem;
+    background-color: #3D320D;
+
+}
+.max-width {
+    width: 100%;
+}
+.prato-do-dia{
+    margin-bottom: 3rem;
+}
+.spc-btwn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+.letreiro {
+    font-weight: bold;
+    text-align: center;
+    color: #3D320D;
+}
+.price {
+    padding-left: 1rem;
+}
+.prato-do-dia h1 {
+    color: #E1C060;
+}
+.prato-do-dia .price {
+    color: green;
+}
+.no-wrap {
+    white-space: nowrap;
+}

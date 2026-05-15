@@ -8,13 +8,13 @@ Projeto de aplicativo de restaurante para o curso Desenvolvimento para Dispositi
 ## Forma do aplicativo na versão 1 para entrega
 
 ### Página inicial
-• Logo **R01**
+• Logo **R01** X
 
 • Ícone de carrinho (não funcional)(ou sacola) **R02**
 
-• Prato do dia (Letreiro "Prato do dia", Foto, nome, preço) **R03**
+• Prato do dia (Letreiro "Prato do dia", Foto, nome, preço) **R03** X
 
-• Links para as páginas de categoria (devem ser chamativos. Foto grande e texto abaixo) **R04**
+• Links para as páginas de categoria (devem ser chamativos. Foto grande e texto abaixo) **R04** X
 
 ### Página de categoria
 
@@ -31,6 +31,6 @@ Projeto de aplicativo de restaurante para o curso Desenvolvimento para Dispositi
 
 ### Aparência
 
-• Cores: Primary (bege e branco), Secondary(branco e preto), tertiary(marrom e branco) **R09**
+• Cores: Primary (bege e branco), Secondary(branco e preto), tertiary(marrom e branco) **R09** X
 
 • Fonte: Roboto (Textos destacados devem ser máximamente destacados) **R10**

@@ -6,3 +6,6 @@ Cores
 
 #F3BB66 Beje secundário
 #A65616 Marrom secundário
+
+
+#e6ae5b cor adaptada

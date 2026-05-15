@@ -1,20 +1,79 @@
 <ion-header [translucent]="true">
-  <ion-toolbar>
+  <ion-toolbar color="primary">
     <ion-title>
-      Blank
+      Burger House Delivery
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
+  <!-- <ion-header collapse="condense">
+    <ion-toolbar color="tertiary">
       <ion-title size="large">Blank</ion-title>
     </ion-toolbar>
-  </ion-header>
+  </ion-header> -->
 
-  <div id="container">
+  <div class="center max-width logo">
+    <img src="../../assets/img/BurgerHouseLogo.jpeg" alt="Logo da Burger House Delivery" style="height:300px">
+  </div>
+
+  <!-- <ion-card color="tertiary" class="center">
+    <ion-card-content>
+      <img src="../../assets/img/BurgerHouseLogo.jpeg" alt="Logo da Burger House Delivery" style="height:300px">
+    </ion-card-content>
+  </ion-card> -->
+  <div class="prato-do-dia">
+    <h1 class="letreiro">Prato do Dia</h1>
+    <ion-card>
+      <ion-card-content>
+        <ion-list lines="none" class="max-width">
+          <ion-item class="">
+            <ion-thumbnail>
+              <img src="../../assets/img/Gemini_Generated_Image_x261zux261zux261.png"/>
+            </ion-thumbnail>
+            <ion-label class="ion-padding"><div class="spc-btwn"><span class="letreiro">Combo X-Bacon, Bolo e Coca</span> <span class="no-wrap price letreiro">R$ 22,00</span></div></ion-label>
+          </ion-item>
+        </ion-list>
+      </ion-card-content>
+    </ion-card>
+  </div>
+
+
+
+  <ion-card color="secondary" routerLink="../lanches">
+    <ion-card-content class="center">
+      <img src="../../assets/img/burger_icon.png" alt="" style="height:50px">
+      <ion-card-title class="letreiro">Lanches</ion-card-title>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card color="secondary" routerLink="../pratos">
+    <ion-card-content class="center">
+    <img src="../../assets/img/plate_icon.png" alt="" style="height:50px">
+    <ion-card-title class="letreiro">Entradas e Pratos</ion-card-title>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card color="secondary" routerLink="../bebidas">
+    <ion-card-content class="center">
+    <img src="../../assets/img/cup_icon.png" alt="" style="height:50px">
+    <ion-card-title class="letreiro">Bebidas</ion-card-title>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card color="secondary" routerLink="../sobremesas">
+    <ion-card-content class="center">
+    <img src="../../assets/img/cake_icon.png" alt="" style="height:50px">
+    <ion-card-title class="letreiro">Sobremesas</ion-card-title>
+    </ion-card-content>
+  </ion-card>
+
+
+
+
+
+  <!-- <div id="container">
     <strong>Ready to create an app?</strong>
     <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
-  </div>
+  </div> -->
 </ion-content>
