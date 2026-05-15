@@ -14,13 +14,13 @@ Projeto de aplicativo de restaurante para o curso Desenvolvimento para Dispositi
 
 • Prato do dia (Letreiro "Prato do dia", Foto, nome, preço) **R03**
 
-• Links para as páginas de categoria (devem ser chamativos. Foto grande e texto abaixo) **R04**
+• Links para as páginas de categoria (devem ser chamativos. Ícone acima e texto abaixo) **R04**
 
 ### Página de categoria
 
 • 4 páginas de categorias (1 lanches, 2 sobremesas, 3 entradas, 4 entradas e pratos de refeição) **R05**
 
-• Itens dos alimentos da categoria (constituído por ícone, nome e preço) **R06**
+• Itens dos alimentos da categoria (constituído por foto, nome e preço) **R06**
 
 ### Página de produto
 
